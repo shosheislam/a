@@ -1,0 +1,11 @@
+<!DOCTYPE Suite SYSTEM "https://testing.org/testing-1.0.dtd ">
+<Suite name="Login Test Suite">
+    <Test name="Login function Test ">
+        <classes>
+            <class name="com.Testng.LoginTestng"></class>
+          <class name="com.Testng.DP_ProviderLoginTest"></class>
+
+        </classes>
+
+    </Test>
+</Suite>
